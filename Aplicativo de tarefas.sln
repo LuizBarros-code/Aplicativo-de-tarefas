@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicativo de tarefas", "Aplicativo de tarefas\Aplicativo de tarefas.csproj", "{DABF13E1-F664-437E-A040-349DA514D62A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABF13E1-F664-437E-A040-349DA514D62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABF13E1-F664-437E-A040-349DA514D62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABF13E1-F664-437E-A040-349DA514D62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABF13E1-F664-437E-A040-349DA514D62A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B4477A-D8DD-4A4E-A92D-CFA30E84D530}
+	EndGlobalSection
+EndGlobal
